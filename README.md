@@ -15,3 +15,8 @@ See also "Learning to Fly--Interlink Elite" at https://www.youtube.com/watch?v=z
 ### Heli
 
 See also "Learning to Fly--Heli Controls" at https://www.youtube.com/watch?v=cAwrq_1THMc
+
+See also "Rc-heli flight lesson 1...learning the basics (freddycanflyrc.com)" at https://www.youtube.com/watch?v=dMegy0DEbxE
+
+See also "Rc-Heli flight lesson 2... tail turns vs momentum turns (freddycanflyrc.com)" at https://www.youtube.com/watch?v=t8Bjfq4fcxE
+
