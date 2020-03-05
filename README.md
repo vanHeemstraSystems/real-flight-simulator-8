@@ -12,4 +12,6 @@ See also:
 See also "Learning to Fly--Interlink Elite" at https://www.youtube.com/watch?v=z-6rOBRF_qY&list=RDQMIX14ifWgWQY&index=2
 
 
+### Heli
 
+See also "Learning to Fly--Heli Controls" at https://www.youtube.com/watch?v=cAwrq_1THMc
