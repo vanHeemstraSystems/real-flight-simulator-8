@@ -6,6 +6,9 @@ See also "Rc-heli flight lesson 1...learning the basics (freddycanflyrc.com)" at
 
 Understand the basic controls involved with a collective pitch rc heli, also we go over first time hovers and some do's and don'ts.
 
+In RealFlight 8 set the level of difficulty to Beginner:
+
+![Difficulty: Beginner]()
 
 In RealFlight 8 choose from the top menu:
 
