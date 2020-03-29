@@ -42,6 +42,8 @@ Next, choose:
 - Heli Orientation Trainer...
 - Airplane Hover Trainer...
 
+![Training: Heli Hover Trainer](https://raw.githubusercontent.com/vanHeemstraSystems/real-flight-simulator-8/blob/master/100/image02.jpeg)
+
 ## Training: Heli Autorotation Trainer
 
 ![Training: Heli Autorotation Trainer: Welcome](https://raw.githubusercontent.com/vanHeemstraSystems/real-flight-simulator-8/master/100/image05.jpeg)
@@ -58,6 +60,8 @@ Next, choose:
 - Heli Autorotation Trainer...
 - Heli Orientation Trainer...  <===
 - Airplane Hover Trainer...
+
+![Training: Heli Hover Trainer](https://raw.githubusercontent.com/vanHeemstraSystems/real-flight-simulator-8/blob/master/100/image03.jpeg)
 
 ## Training: Heli Orientation Trainer
 
