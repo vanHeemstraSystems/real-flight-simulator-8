@@ -61,7 +61,7 @@ Next, choose:
 - Heli Orientation Trainer...  <===
 - Airplane Hover Trainer...
 
-![Training: Heli Hover Trainer](../100/image03.jpeg)
+![Training: Heli Hover Trainer](/image03.jpeg)
 
 ## Training: Heli Orientation Trainer
 
