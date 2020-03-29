@@ -8,7 +8,7 @@ Understand the basic controls involved with a collective pitch rc heli, also we 
 
 In RealFlight 8 set the level of difficulty to Beginner:
 
-![Difficulty: Beginner]()
+![Difficulty: Beginner](https://github.com/vanHeemstraSystems/real-flight-simulator-8/blob/master/100/image0.jpeg)
 
 In RealFlight 8 choose from the top menu:
 
