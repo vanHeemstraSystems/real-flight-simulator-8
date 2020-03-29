@@ -29,3 +29,4 @@ Next, choose:
 
 ## Training: Heli Hover Trainer
 
+![Training: Heli Hover Trainer: Welcome](https://raw.githubusercontent.com/vanHeemstraSystems/real-flight-simulator-8/master/100/image04.jpeg)
