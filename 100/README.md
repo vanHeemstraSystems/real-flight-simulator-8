@@ -12,6 +12,8 @@ In RealFlight 8 for Physics set the level of Difficulty to Beginner:
 
 ![Difficulty: Beginner](https://github.com/vanHeemstraSystems/real-flight-simulator-8/blob/master/100/image0.jpeg)
 
+## Training
+
 In RealFlight 8 choose from the top menu:
 
 - Training
