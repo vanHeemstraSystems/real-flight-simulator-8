@@ -37,6 +37,12 @@ Next, choose:
 
 ## Training: Heli Autorotation Trainer
 
+![Training: Heli Autorotation Trainer: Welcome](https://raw.githubusercontent.com/vanHeemstraSystems/real-flight-simulator-8/master/100/image??.jpeg)
+
+
+
+
+
 ... more to follow
 
 ## Training: Heli Orientation Trainer
